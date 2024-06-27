@@ -8,10 +8,10 @@ const ArtData = (option: string) => {
               "rating": 5,
               "link": "https://www.instagram.com/nikeartgallery?igsh=MWQzM3p5b3J3d2Jjcw==",
               "display_images": [
-                require('../../assets/images/art_galleries/nike/1.png'),
-                require('../../assets/images/art_galleries/nike/0.png'),
+                require('../../assets/images/art_galleries/nike/1.jpg'),
+                require('../../assets/images/art_galleries/nike/0.jpg'),
               ],
-              "image": require('../../assets/images/art_galleries/nike/0.png'),
+              "image": require('../../assets/images/art_galleries/nike/0.jpg'),
               "openingDays": {
                 "Monday": true,
                 "Tuesday": true,
@@ -29,10 +29,10 @@ const ArtData = (option: string) => {
               "rating": 4,
               "link": "https://www.instagram.com/reddoorng?igsh=MWZqODdheWNjc2IwdA==",
               "display_images": [
-                require('../../assets/images/art_galleries/red_door/1.png'),
-                require('../../assets/images/art_galleries/red_door/2.png'),
+                require('../../assets/images/art_galleries/red_door/1.jpg'),
+                require('../../assets/images/art_galleries/red_door/2.jpg'),
               ],
-              "image": require('../../assets/images/art_galleries/red_door/0.png'),
+              "image": require('../../assets/images/art_galleries/red_door/0.jpg'),
               "openingDays": {
                 "Monday": true,
                 "Tuesday": true,
@@ -50,11 +50,11 @@ const ArtData = (option: string) => {
               "rating": 4,
               "link": "https://www.instagram.com/arttwentyone?igsh=MTFwczdvNGpjdmxoaQ==",
               "display_images": [
-                require('../../assets/images/art_galleries/twenty_one/1.png'),
-                require('../../assets/images/art_galleries/twenty_one/2.png'),
-                require('../../assets/images/art_galleries/twenty_one/3.png'),
+                require('../../assets/images/art_galleries/twenty_one/1.jpg'),
+                require('../../assets/images/art_galleries/twenty_one/2.jpg'),
+                require('../../assets/images/art_galleries/twenty_one/3.jpg'),
               ],
-              "image": require('../../assets/images/art_galleries/twenty_one/0.png'),
+              "image": require('../../assets/images/art_galleries/twenty_one/0.jpg'),
               "openingDays": {
                 "Monday": true,
                 "Tuesday": true,
@@ -72,12 +72,12 @@ const ArtData = (option: string) => {
               "rating": 5,
               "link": "https://www.instagram.com/nomadic.ag?igsh=c2EyY3BsbW55dzE0",
               "display_images": [
-                require('../../assets/images/art_galleries/nomadic/1.png'),
-                require('../../assets/images/art_galleries/nomadic/2.png'),
-                require('../../assets/images/art_galleries/nomadic/3.png'),
-                require('../../assets/images/art_galleries/nomadic/4.png'),
+                require('../../assets/images/art_galleries/nomadic/1.jpg'),
+                require('../../assets/images/art_galleries/nomadic/2.jpg'),
+                require('../../assets/images/art_galleries/nomadic/3.jpg'),
+                require('../../assets/images/art_galleries/nomadic/4.jpg'),
               ],
-              "image": require('../../assets/images/art_galleries/nomadic/0.png'),
+              "image": require('../../assets/images/art_galleries/nomadic/0.jpg'),
               "openingDays": {
                 "Monday": true,
                 "Tuesday": true,
@@ -95,10 +95,10 @@ const ArtData = (option: string) => {
               "rating": 5,
               "link": "https://www.instagram.com/sotogallery?igsh=cGN2aGRweWUzMWFo",
               "display_images": [
-                require('../../assets/images/art_galleries/soto/1.png'),
-                require('../../assets/images/art_galleries/soto/2.png'),
+                require('../../assets/images/art_galleries/soto/1.jpg'),
+                require('../../assets/images/art_galleries/soto/2.jpg'),
               ],
-              "image": require('../../assets/images/art_galleries/soto/0.png'),
+              "image": require('../../assets/images/art_galleries/soto/0.jpg'),
               "openingDays": {
                 "Monday": true,
                 "Tuesday": true,

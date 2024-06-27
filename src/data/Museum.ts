@@ -23,7 +23,7 @@ const MuseumData = (option: string) => {
           "display_images": [
             
           ],
-          "image": require('../../assets/images/museum/kalakuta/0.png'),
+          "image": require('../../assets/images/museum/kalakuta/0.jpg'),
         },
         {
           "name": "Badagry Slave Museum and Black History Museum",
@@ -42,12 +42,12 @@ const MuseumData = (option: string) => {
             "Sunday": false
           },
           "display_images": [
-            require('../../assets/images/museum/badagry/1.png'),
-            require('../../assets/images/museum/badagry/2.png'),
-            require('../../assets/images/museum/badagry/3.png'),
-            require('../../assets/images/museum/badagry/0.png'),
+            require('../../assets/images/museum/badagry/1.jpg'),
+            require('../../assets/images/museum/badagry/2.jpg'),
+            require('../../assets/images/museum/badagry/3.jpg'),
+            require('../../assets/images/museum/badagry/0.jpg'),
           ],
-          "image": require('../../assets/images/museum/badagry/0.png'),
+          "image": require('../../assets/images/museum/badagry/0.jpg'),
         },
         {
           "name": "Kalakuta Museum",
@@ -67,12 +67,12 @@ const MuseumData = (option: string) => {
             "Sunday": false
           },
           "display_images": [
-            require('../../assets/images/museum/kalakuta/1.png'),
-            require('../../assets/images/museum/kalakuta/2.png'),
-            require('../../assets/images/museum/kalakuta/3.png'),
-            require('../../assets/images/museum/kalakuta/0.png'),
+            require('../../assets/images/museum/kalakuta/1.jpg'),
+            require('../../assets/images/museum/kalakuta/2.jpg'),
+            require('../../assets/images/museum/kalakuta/3.jpg'),
+            require('../../assets/images/museum/kalakuta/0.jpg'),
           ],
-          "image": require('../../assets/images/museum/kalakuta/0.png'),
+          "image": require('../../assets/images/museum/kalakuta/0.jpg'),
         },
         {
           "name": "National Museum Lagos",
@@ -91,12 +91,12 @@ const MuseumData = (option: string) => {
             "Sunday": false
           },
           "display_images": [
-            require('../../assets/images/museum/national/1.png'),
-            require('../../assets/images/museum/national/2.png'),
-            require('../../assets/images/museum/national/3.png'),
-            require('../../assets/images/museum/national/0.png'),
+            require('../../assets/images/museum/national/1.jpg'),
+            require('../../assets/images/museum/national/2.jpg'),
+            require('../../assets/images/museum/national/3.jpg'),
+            require('../../assets/images/museum/national/0.jpg'),
           ],
-          "image": require('../../assets/images/museum/national/3.png'),
+          "image": require('../../assets/images/museum/national/3.jpg'),
           "videoData": {
             "local": [
                 videos.national
